@@ -6,7 +6,7 @@ It automatically fetches abstracts, identifies biomedical entities, filters vali
 📚 Overview
 Biomedical literature is a rich source of knowledge, but manually analyzing it is time-consuming. This script automates that process through:
 * Automated data collection from PubMed using Biopython’s Entrez API
-* Named Entity Recognition (NER) with SciSpaCy models (en_ner_bc5cdr_md and en_ner_bionlp13cg_md)
+* Named Entity Recognition (NER) with SciSpaCy models (en_ner_bc5cdr_md, en_ner_bionlp13cg_md and en_ner_jnlpba_md)
 * Entity validation using PubChemPy
 * Interactive visualization of drug–disease networks via PyVis
 
@@ -33,6 +33,7 @@ Then install SciSpaCy biomedical models:
 ```python
 pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_ner_bc5cdr_md-0.5.4.tar.gz
 pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_ner_bionlp13cg_md-0.5.4.tar.gz
+pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_ner_jnlpba_md-0.5.4.tar.gz
 ```
 🧠 Usage
 
