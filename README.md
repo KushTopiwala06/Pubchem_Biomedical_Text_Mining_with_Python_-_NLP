@@ -52,10 +52,11 @@ Creates a dataframe (df_entities) containing all recognized entities
 Displays a drug–disease interaction network in your browser
 
 🧪 Example Output
+```python 
 PMID	Disease	Chemical	Year
 12345678	Alzheimer’s disease	Donepezil	2024
 23456789	Alzheimer’s disease	Memantine	2023
-
+```
 Network Visualization Example:
 🧠 Alzheimer’s disease ↔ 💊 Donepezil ↔ 🧬 Protein interactions
 
