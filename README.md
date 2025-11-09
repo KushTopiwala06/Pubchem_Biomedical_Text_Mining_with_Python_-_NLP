@@ -20,32 +20,33 @@ Biomedical literature is a rich source of knowledge, but manually analyzing it i
 
 Installation & Setup
 Clone the Repository
+```python 
 git clone https://github.com/yourusername/biomedical-text-mining.git
 cd biomedical-text-mining
-
+```
 Install Dependencies
 ```python 
 !pip install biopython scispacy pubchempy pyvis pandas networkx tqdm
 ```
 
 Then install SciSpaCy biomedical models:
+```python
 pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_ner_bc5cdr_md-0.5.4.tar.gz
 pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_ner_bionlp13cg_md-0.5.4.tar.gz
-
+```
 🧠 Usage
 
 Edit the search query in the script:
-
+```python
 search_query = "(alzheimer) AND (alzheimer drug) NOT (Cancer)"
-
+```
 
 Run the script:
-
+```python
 python exploring_biomedical_text_mining_from_pubmed_with_python_&_nlp.py
-
+```
 
 Outputs:
-
 Prints top PubMed abstracts with title and year
 Creates a dataframe (df_entities) containing all recognized entities
 Displays a drug–disease interaction network in your browser
