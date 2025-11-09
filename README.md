@@ -24,7 +24,7 @@ git clone https://github.com/yourusername/biomedical-text-mining.git
 cd biomedical-text-mining
 
 Install Dependencies
-''' python 
+```python 
 !pip install biopython scispacy pubchempy pyvis pandas networkx tqdm
 
 Then install SciSpaCy biomedical models:
