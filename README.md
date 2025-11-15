@@ -62,7 +62,7 @@ Network Visualization Example:
 🧠 Alzheimer’s disease ↔ 💊 Donepezil ↔ 🧬 Protein interactions
 
 📊 Visualization
-An interactive HTML network (via PyVis) connects top 30 diseases and chemicals.
+An interactive HTML network (via PyVis) connects top 30 diseases and chemicals.\
 You can hover over nodes to see relationships and zoom in for details.
 
 Example Network Visualization:
