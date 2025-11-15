@@ -64,3 +64,4 @@ Network Visualization Example:
 📊 Visualization
 An interactive HTML network (via PyVis) connects top 30 diseases and chemicals.
 You can hover over nodes to see relationships and zoom in for details.
+![image alt](Screenshot 2025-11-15 194551.png)
