@@ -66,4 +66,4 @@ An interactive HTML network (via PyVis) connects top 30 diseases and chemicals.\
 You can hover over nodes to see relationships and zoom in for details.
 
 Example Network Visualization:
-![image alt](https://github.com/KushTopiwala06/Pubchem_Biomedical_Text_Mining_with_Python_-_NLP/blob/f62fec0bd5b984dab5ecc06e6230b2c7e89500ab/Screenshot%202025-11-15%20194551.png)
+![image alt](https://github.com/KushTopiwala06/Pubchem_Biomedical_Text_Mining_with_Python_-_NLP/blob/7d141bbd41aecdd61ba2210ec03f51b723f163fd/Network%20Visualization%20Example.png)
