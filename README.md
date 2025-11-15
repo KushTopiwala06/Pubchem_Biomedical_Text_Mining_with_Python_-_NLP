@@ -26,7 +26,10 @@ cd biomedical-text-mining
 ```
 Install Dependencies
 ```python 
-!pip install biopython scispacy pubchempy pyvis pandas networkx tqdm
+!pip install biopython
+!pip install scispacy
+!pip install pubchempy
+!pip install pyvis
 ```
 
 Then install SciSpaCy biomedical models:
