@@ -72,5 +72,4 @@ Example Network Visualization:
 
 
 Author:
-
 Kush Topiwala 
