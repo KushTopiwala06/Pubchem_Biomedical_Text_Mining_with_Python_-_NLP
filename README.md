@@ -71,5 +71,6 @@ Example Network Visualization:
 ![image alt](https://github.com/KushTopiwala06/Pubchem_Biomedical_Text_Mining_with_Python_-_NLP/blob/7d141bbd41aecdd61ba2210ec03f51b723f163fd/Network%20Visualization%20Example.png)
 
 
-Author 
+Author:
+
 Kush Topiwala 
