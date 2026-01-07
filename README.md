@@ -69,3 +69,7 @@ You can hover over nodes to see relationships and zoom in for details.
 Example Network Visualization:
 🧠 Alzheimer’s disease ↔ 💊 Donepezil ↔ 🧬 Protein 
 ![image alt](https://github.com/KushTopiwala06/Pubchem_Biomedical_Text_Mining_with_Python_-_NLP/blob/7d141bbd41aecdd61ba2210ec03f51b723f163fd/Network%20Visualization%20Example.png)
+
+
+Author 
+Kush Topiwala 
